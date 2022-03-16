@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Finding the Poisonous Compound
-date: 2015-08-30 15:58
+title: Testing DHC
+date: 2022-08-30 15:58
 comments: true
 external-url:
 categories: Mathematics
