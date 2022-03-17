@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'Su herencia fue el llanto' (CLAR)
+title: Su herencia fue el llanto
 date: 2021-10-16 19:15
 comments: true
-external-url:
+external-url: https://www.tandfonline.com/doi/full/10.1080/10609164.2020.1865721
 categories: Publications
 ---
 
