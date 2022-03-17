@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Su herencia fue el llanto
+title: 'Su herencia fue el llanto' (CLAR)
 date: 2021-10-16 19:15
 comments: true
 external-url:
