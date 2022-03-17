@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Golfing in APL during COVID
+title: Colonial/Moder
 date: 2020-04-26 21:18
 comments: true
 external-url:
-categories: Software
+categories: Teaching
 ---
 
 > A _niven_ number is a non-negative number that is divisible by the sum of its digits. Write a function/method named `niven`, which prints all the _niven_ numbers from 0 to 100 inclusive.
