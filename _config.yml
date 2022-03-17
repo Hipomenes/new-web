@@ -3,7 +3,7 @@ title: "On knowledge and Philosophy"
 author: "David Horacio Colmenares"
 description: "This is a blog about software, some mathematics, and the occasional philosophy. Not necessarily in that order."
 keywords: "Software Engineering, Mathematics, Philosophy, Scala, Epistemology, Existentialism, Programming, Machine-Learning, Artificial Intelligence, Statistics, Probability, Puzzles"
-biography: "I am <b>David Horacio Colmenares<b>, Moorman-Simon Assistant Professor of Spanish and Latin American Studies at the <a href='http://www.fe.up.pt'>Romance Studies department</a>, Boston University and Research Associate at <a href='https://www.inesctec.pt'>INESC TEC</a>. Here you can find my <a href='/assets/thesis.pdf'>PhD Thesis</a>, my <a href='/assets/cv.pdf'>Résumé</a>, and my <a href='/curriculum/publications/'>Publications</a>."
+biography: "I am David Horacio Colmenares, Moorman-Simon Assistant Professor of Spanish and Latin American Studies at the <a href='http://www.fe.up.pt'>Romance Studies department</a>, Boston University and Research Associate at <a href='https://www.inesctec.pt'>INESC TEC</a>. Here you can find my <a href='/assets/thesis.pdf'>PhD Thesis</a>, my <a href='/assets/cv.pdf'>Résumé</a>, and my <a href='/curriculum/publications/'>Publications</a>."
 colophon: "© MMXIII — MMXX by Hugo Sereno Ferreira.<br>Content available under <a href='http://creativecommons.org/licenses/by-nc-sa/4.0/''>Creative Commons (BY-NC-SA)</a> unless otherwise noted.<br>This site is hosted at <a href='https://pages.github.com/''>Github Pages</a> and created with <a href='http://jekyllrb.com/'>Jekyll</a> and <a href='http://getbootstrap.com'>Bootstrap</a>."
 
 baseurl: "/new-web/"
