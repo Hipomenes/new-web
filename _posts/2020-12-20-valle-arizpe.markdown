@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Valle-Arizpe"
+title: Valle-Arizpe
 date: 2020-12-20
 comments: true
 external-url:
