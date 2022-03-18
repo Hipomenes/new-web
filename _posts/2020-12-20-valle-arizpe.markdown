@@ -5,6 +5,7 @@ date: 2020-12-20
 comments: true
 external-url:
 categories: Minutiae
+---
 
 ![Don Artemio en su biblioteca](https://2.bp.blogspot.com/-uVn2DUyWWyU/XCZIfmy4_kI/AAAAAAAANxU/qaLe0R2Ag4csmKurHMwn0W3Fpm5xMvnkgCLcBGAs/s1600/Manuel%2BRamos%2Ben%2B1959.jpg)
 
