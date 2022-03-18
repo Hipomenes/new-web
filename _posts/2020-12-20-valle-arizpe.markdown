@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Valle-Arizpe"
-date: 2020-20-12
+date: 2020-12-20
 comments: true
 external-url:
 categories: Minutiae
